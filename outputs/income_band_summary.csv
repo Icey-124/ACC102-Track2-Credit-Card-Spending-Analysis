@@ -1,0 +1,4 @@
+income_band,customers,avg_spend,median_spend,avg_income_thousand,avg_spend_to_income_ratio
+Low income,24,123.29,80.975,2.092,0.059
+Middle income,24,219.788,133.62,2.938,0.071
+High income,24,444.518,299.345,5.282,0.086

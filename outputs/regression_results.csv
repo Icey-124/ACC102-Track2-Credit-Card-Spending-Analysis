@@ -1,0 +1,5 @@
+,coefficient,p_value
+Intercept,0.3972,0.9981
+income_thousand,79.8358,0.0012
+age,-0.7769,0.8883
+home_owner,32.0877,0.7061
